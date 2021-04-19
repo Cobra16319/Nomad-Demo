@@ -5,3 +5,17 @@ Fun Demo to get up and running with Nomad
 
 ## Pull in the module and it will create 42 resources and setup all the routes and security groups for 9 instances running on AWS with auto-scaling and Consul and Nomad already configured. 
 
+$ git pull git@github.com:Cobra16319/Nomad-Demo.git
+
+
+$ Terraform init
+
+
+$ Terraform Plan 
+
+
+$ Terraform Apply
+
+
+
+## Ensure you grab the SSH Key From AWS and have fun! Check the ./terraform directory for the full use and viewing of the module used.
