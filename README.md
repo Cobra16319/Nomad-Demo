@@ -7,7 +7,7 @@ Fun Demo to get up and running with Nomad
 
 
 ```
-$ git pull git@github.com:Cobra16319/Nomad-Demo.git
+$ git pull https://github.com/Cobra16319/Nomad-Demo.git
 ```
 
 ```
