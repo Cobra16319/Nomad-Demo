@@ -1,5 +1,5 @@
 # Nomad-Demo
-Fun Demo to get up and running with Nomad
+Fun Demo to get up and running with Nomad, it uses consul and terraform modules from the Terraform Module Registry
 
 ## This AMI can be used for learning; update if you want to use in production. It has a current version of Nomad and Packer at time of commit
 
